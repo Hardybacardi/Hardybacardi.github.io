@@ -1,0 +1,15 @@
+/* TEAM */
+	Chef:Christopher Blomdahl
+	Contact: christopher.blomdahl [at] gmail.com
+	From: Boras, Sandared, Sweden
+
+/* THANKS */
+
+	(First) EN Translator: Christopher Blomdahl
+	From: Boras, Sandared, Sweden
+
+/* SITE */
+	Last update:2018/11/18
+	Language: English
+	Doctype:HTML5
+	IDE: Visual Studio Code
